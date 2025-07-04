@@ -1,4 +1,4 @@
-🛍️ Customer Behavior Analysis
+## 🛍️ Customer Behavior Analysis
 
 A data analysis project to explore and understand customer behavior patterns through data cleaning, preprocessing, exploratory data analysis (EDA), and visualization techniques. This helps businesses make data-driven decisions for marketing, inventory, and customer engagement strategies.
 
